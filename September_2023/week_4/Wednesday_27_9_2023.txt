@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
+1. DQC PR [Deep Forest Work] [1 Hrs]
+2. SeqToSeq Model PR [GSoC] [Deep Forest Work] [1 Hrs]
+3. Deep Forest Meet [Deep Forest Work] [1.5 Hrs]
+3. MOS [Mid Sem] [2 Hrs]
+4. Mine Development [Mid Sem] [1 Hrs]
+
+Note:
+- Deep Forest Work 4 hrs
