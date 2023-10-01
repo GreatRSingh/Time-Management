@@ -23,11 +23,11 @@ Tasks:
      - Documentation
      - Overfit Test
 2. Maths - 2 Hrs
-   - Binomial
-   - Poision
-   - Hyper Geometric
+   - Binomial [Done]
+   - Poision [Done]
+   - Hyper Geometric [Done]
    - Normal
 3. MOS - 2 Hrs
 4. Mine Dev - 2 Hrs
 5. Book Reading - 1 Hrs
-6. Finance PI - 1 Hrs [6:00 PM - 7:30 PM]
+6. Finance PI - 1 Hrs [6:00 PM - 7:30 PM] [Done]
