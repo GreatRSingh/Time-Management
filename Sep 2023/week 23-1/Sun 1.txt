@@ -23,6 +23,10 @@ Tasks:
      - Documentation
      - Overfit Test
 2. Maths - 2 Hrs
+   - Binomial
+   - Poision
+   - Hyper Geometric
+   - Normal
 3. MOS - 2 Hrs
 4. Mine Dev - 2 Hrs
 5. Book Reading - 1 Hrs
