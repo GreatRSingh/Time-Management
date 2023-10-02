@@ -1,18 +1,18 @@
-8:00 to 9:00 -Maths Class
-9:00 to 10:00 -Mine Development Class
-10:00 to 10:40 - Rest
-10:40 to 11:40 - MOS
-12:00 TO 12:30 - Lunch
-12:30 to 1:30 - MOS 
-1:30 to 3:30 - Mine Development [2 hrs]
-3:30 to 4:00 - Rest
-4:15 to 5:15 - Elective Class
-5:30 to 6:00 - snacks
+8:00 to 9:00 - Maths Class
+9:00 to 10:00 - Mine Development Class
+10:00 to 10:30 - Rest
+10:30 to 12:00 - MOS
+12:00 TO 12:30 - Lunch and Rest
+12:30 to 1:30 - MOS
+1:30 to 2:00 - Rest
+2:00 to 4:00 - Maths
+4:00 to 5:00 - Elective Class
+5:30 to 6:00 - Snacks
 6:00 to 8:00 - Maths 
 8:00 to 8:30 - Dinner
-8:30 to 11:00- Deep Forest Work 
+8:30 to 11:00 - Deep Forest Work
 11:00 to 12:00 - Meeting my Heroine
-12:00 to 1:00 -Deep Forest Work
+12:00 to 1:00 - Deep Forest Work
   Rest 1 hour of DEEP FOREST WORK will done on Wednesday
             -----ALL THE BEST ------
 
@@ -23,10 +23,9 @@
 
 --------------
 Tasks:
-1. Mine Development - 2 Hrs
-2. Deep Forest Work - 4 Hrs
-3. Maths - 2 Hrs
-5. MOS - 2 Hrs
-6. Maths Class - 1 Hrs [8 AM - 9 AM]
-7. Mine Dev Class - 1 Hrs [9 AM - 10 AM]
-8. Elective Class - 1 Hrs [4 AM - 5 AM]
+1. Deep Forest Work - 3 Hrs
+2. Maths - 2 Hrs
+3. MOS - 2 Hrs
+4. Maths Class - 1 Hrs [8 AM - 9 AM]
+5. Mine Dev Class - 1 Hrs [9 AM - 10 AM]
+6. Elective Class - 1 Hrs [4 AM - 5 AM]
