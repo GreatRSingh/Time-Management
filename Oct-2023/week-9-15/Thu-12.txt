@@ -1,0 +1,12 @@
+3:30 PM TO 4:30 PM - Rust Work
+4:30 PM TO 5:30 PM - Snacks and Rust
+5:30 PM TO 6:30 PM - BaseXC PR Fix
+
+
+
+
+-----------------
+Tasks:
+1. Rust Work [MSE | MAE]
+2. BaseXC PR Fix [DFW]
+3. Zero Meet
